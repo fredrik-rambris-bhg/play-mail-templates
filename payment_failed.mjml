@@ -1,0 +1,37 @@
+<mjml>
+  <mj-body background-color="#eeeeee">
+
+    <mj-include path="./header-logo.mjml" />
+
+    <mj-section background-color="#ffffff" padding="20px 20px 0px 20px">
+      <mj-column>
+        <mj-text padding="0px" align="center" color="#ff6600">
+          <h1 style="font-family: Arial, sans-serif; font-size: 30px;">Ibland går det fel...</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0px 20px 20px 20px">
+      <mj-column>
+        <mj-text padding="0" font-family="Arial, sans-serif" font-size="16px" line-height="20px" align="center">
+          <p>
+            Betalningen för ditt Bokus Play-abonnemang misslyckades. Det kan bero på att ditt kontokort gått ut. Vi försöker snart igen.
+          </p>
+          <p>
+          Om du vill byta ditt kontokort gå till Mina sidor på Bokus.com.
+            </p>
+        </mj-text>
+        <mj-button background-color="#ff6600" font-size="20px" font-weight="700" width="194px" href="https://www.bokus.com/cgi-bin/account_bplay_settings.cgi">Uppdatera mitt kontokort</mj-button>
+
+        <mj-text padding="0" font-family="Arial, sans-serif" font-size="13px" font-style="italic" line-height="20px" align="center">
+          <p>
+Efter tre misslyckade debiteringsförsök i rad så avslutas ditt abonnemang automatiskt. Därmed upphör också dina rabatter och förmåner hos Bokus.
+          </p>
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+</mjml>

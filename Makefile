@@ -1,7 +1,9 @@
-templates = cancel_confirmation.mjml magic_link.mjml onboard_new.mjml onboard_returning.mjml payment_failed.mjml reactivate.mjml welcome.mjml
+templates = cancel_confirmation.html magic_link.html onboard_new.html onboard_returning.html payment_failed.html reactivate.html welcome.html
+
+ALL: $(templates)
 
 $(templates): %.html: %.mjml
-	mjml -o $@ $<
+	mjml -o ./ $<
 
 clean:
 	rm -f $(templates)

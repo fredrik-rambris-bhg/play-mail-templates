@@ -1,0 +1,64 @@
+<mjml>
+  <mj-body background-color="#eeeeee">
+
+    <mj-include path="./header-logo.mjml" />
+    <mj-include path="./header-tjej1.mjml" />
+
+    <mj-section background-color="#ffffff" padding="20px 20px 0px 20px">
+      <mj-column>
+        <mj-text padding="0px" align="center" color="#ff6600">
+          <h1 style="font-family: Arial, sans-serif; font-size: 30px;">
+            Välkommen tillbaka till en värld full av fantastiska berättelserr</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="0px 20px 20px 20px">
+      <mj-column>
+        <mj-text padding="0" font-family="Arial, sans-serif" font-size="16px" line-height="20px" align="center">
+          <p>
+            Vi är glada över att du väljer Bokus Play - det smarta abonnemanget för dig som lyssnar på ljudböcker och läser e-böcker. Nu har du många fantastiska berättelser att se fram emot.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="0px 20px 00px 20px">
+      <mj-column>
+        <mj-text padding="0" font-family="Arial, sans-serif" font-size="16px" line-height="20px" align="center">
+          <h2>Nyheter i appen</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="0px 20px 00px 20px">
+      <mj-column>
+        <mj-text padding="0" font-family="Arial, sans-serif" font-size="16px" line-height="20px" align="left">
+          <ul>
+            <li>Nytt större sortiment med över 40 000 böcker</li>
+            <li>Förbättrat sök, sortering och filtrering</li>
+            <li>Uppdaterad e-boksläsare</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="0px 20px 20px 20px">
+      <mj-column>
+        <mj-text padding="0" font-family="Arial, sans-serif" font-size="16px" line-height="20px" align="center">
+          <big><strong>Varmt välkommen tillbaka!</strong></big>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column>
+        <mj-image padding="0" width="600px" src="http://cdn.mcauto-images-production.sendgrid.net/6ad87c9631042604/b5577546-9932-40b1-a68e-b7c39b681062/1200x567.jpg" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+</mjml>

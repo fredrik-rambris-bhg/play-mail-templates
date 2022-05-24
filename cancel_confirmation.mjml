@@ -25,7 +25,7 @@
               Vi vill gärna veta hur du har upplevt Bokus Play. Svara på vår korta enkät så att vi kan göra tjänsten ännu bättre.
             </p>
           </mj-text>
-          <mj-button background-color="#ff6600" font-size="20px" font-weight="700" width="194px">Tyck till!</mj-button>
+          <mj-button background-color="#ff6600" font-size="20px" font-weight="700" width="194px" href="https://sv.surveymonkey.com/r/bokus_play">Tyck till!</mj-button>
         </mj-column>
       </mj-section>
 

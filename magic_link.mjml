@@ -1,0 +1,44 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-button background-color="#ff6600" color="#ffffff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#eeeeee">
+
+    <mj-include path="./header-logo.mjml" />
+
+    <mj-section background-color="#ffffff" padding="20px 20px 0px 20px">
+      <mj-column>
+        <mj-text padding="0px" align="center" color="#ff6600">
+          <h1 style="font-family: Arial, sans-serif; font-size: 30px;">Hej!</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0px 20px 20px 20px">
+      <mj-column>
+        <mj-text padding="0" font-family="Arial, sans-serif" font-size="16px" line-height="20px" align="center">
+          <p>
+            Du bad om en tillfällig inloggningslänk till Bokus Play.
+            Nedan listas dina konton. Klicka på länken för att direkt bli inloggad.
+          </p>
+        </mj-text>
+        <mj-raw><!-- htmlmin:ignore -->{{#each tokens}}<!-- htmlmin:ignore --></mj-raw>
+        <mj-button href="{{../magic_link_base}}{{this.token}}">Logga in som <strong>{{this.username}}</strong></mj-button>
+        <mj-raw><!-- htmlmin:ignore -->{{/each}}<!-- htmlmin:ignore --></mj-raw>
+
+        <mj-text padding="0" font-family="Arial, sans-serif" font-size="16px" line-height="20px" align="center">
+          <p>
+            Länken är giltig i 24 timmar och kan användas en gång.
+          </p>
+          <p>
+            Trevlig fortsatt lyssning och läsning!
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+</mjml>
