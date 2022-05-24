@@ -1,0 +1,63 @@
+  <mjml>
+    <mj-body background-color="#eeeeee">
+
+      <mj-include path="./header-logo-white.mjml" />
+      <mj-include path="./header-tjej3.mjml" />
+
+
+      <mj-section background-color="#ffffff" padding="20px 20px 0px 20px">
+        <mj-column>
+          <mj-text padding="0px" align="center" color="#ff6600">
+            <h1 style="font-family: Arial, sans-serif; font-size: 30px;">Prova Bokus Play fritt i 30 dagar</h1>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding="0px 20px 20px 20px">
+        <mj-column>
+          <mj-text padding="0" font-family="Arial, sans-serif" font-size="16px" align="center" letter-spacing="0.25px">
+            <p>
+              Vad roligt att du vill prova Bokus Play! Klicka på knappen nedan för att läsa mer om våra olika abonnemang. Välj det abonnemanget som passar dig bäst, starta din kostnadsfria provperiod och börja lyssna.
+            </p>
+            <p>
+              Prova fritt i 30 dagar – avsluta när du vill!
+            </p>
+          </mj-text>
+          <mj-button background-color="#ff6600" font-size="20px" font-weight="700" width="194px" href="https://www.bokus.com/play/signup/?ref=apponboard">Aktivera nu</mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding="00px 20px 0px 20px">
+        <mj-column width="26%">
+          <mj-divider padding="10px 0" border-width="1px" />
+        </mj-column>
+        <mj-column width="48%">
+          <mj-text align="center" padding="0">
+            <h1>Varför Bokus Play?</h1>
+          </mj-text>
+        </mj-column>
+        <mj-column width="26%">
+          <mj-divider padding="10px 0" border-width="1px" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding="0">
+        <mj-column>
+          <mj-image padding="0" src="http://cdn.mcauto-images-production.sendgrid.net/6ad87c9631042604/37bc22e5-8744-4775-8e45-88c10ff9e240/1200x703.png" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding="00px 20px 0px 20px">
+        <mj-column>
+          <mj-text padding="0" font-family="Arial, sans-serif" font-size="11px" font-style="italic" color="#888888" align="center">
+            <p>
+              Du har fått det här mejlet eftersom du har angett din e-postadress i Bokus Play-appen för att aktivera en kostnadsfri provperiod i tjänsten.
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-include path="./footer.mjml" />
+
+    </mj-body>
+  </mjml>

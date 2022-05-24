@@ -1,0 +1,5 @@
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image padding="0" src="http://cdn.mcauto-images-production.sendgrid.net/6ad87c9631042604/29e93cdb-6b3a-4d8b-9c04-dff723d8f268/1200x700.jpg" />
+      </mj-column>
+    </mj-section>

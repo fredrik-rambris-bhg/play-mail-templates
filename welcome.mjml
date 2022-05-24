@@ -1,0 +1,54 @@
+<mjml>
+  <mj-body background-color="#eeeeee">
+
+    <mj-include path="./header-logo.mjml" />
+    <mj-include path="./header-tjej1.mjml" />
+
+    <mj-section background-color="#ffffff" padding="20px 20px 0px 20px">
+      <mj-column>
+        <mj-text padding="0px" align="center" color="#ff6600">
+          <h1 style="font-family: Arial, sans-serif; font-size: 30px;">Välkommen till en värld full av fantastiska berättelser</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="0px 20px 20px 20px">
+      <mj-column>
+        <mj-text padding="0" font-family="Arial, sans-serif" font-size="16px" line-height="20px" align="center">
+          <p>
+            Vi är glada över att du väljer Bokus Play - det smarta abonnemanget för dig som lyssnar på ljudböcker och läser e-böcker. Nu har du många fantastiska berättelser att se fram emot och vi hoppas att du ska trivas hos oss.<br /><br />Du är igång på ett ögonblick. Ladda ner Bokus Play-appen i App Store eller Google Play och börja lyssna och läsa direkt.
+          </p>
+          <p>
+            <strong><big>Ladda ner appen för att komma igång med Bokus Play</big></strong>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column>
+        <mj-image padding="5px 0" width="600px" src="http://cdn.mcauto-images-production.sendgrid.net/6ad87c9631042604/fcb7766c-32d0-448f-a8b3-2402dafde7df/1200x540.png" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column>
+        <mj-image padding="0 0" width="299px" src="http://cdn.mcauto-images-production.sendgrid.net/6ad87c9631042604/5cfa8086-cd6e-4be2-a44e-6f50fddc88a1/598x140.png" />
+      </mj-column>
+      <mj-column>
+        <mj-image padding="0 0" width="299px" src="http://cdn.mcauto-images-production.sendgrid.net/6ad87c9631042604/80856510-163e-404a-9281-799ecbb00bd5/598x140.png" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="20px 20px">
+      <mj-column>
+        <mj-text padding="0" font-family="Arial, sans-serif" font-size="16px" line-height="20px" align="center">
+          <p><strong><big>Trevlig lyssning och läsning!</big></strong></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+</mjml>

@@ -1,0 +1,65 @@
+  <mjml>
+    <mj-body background-color="#eeeeee">
+
+      <mj-include path="./header-logo-white.mjml" />
+      <mj-include path="./header-tjej3.mjml" />
+
+
+      <mj-section background-color="#ffffff" padding="20px 20px 0px 20px">
+        <mj-column>
+          <mj-text padding="0px" align="center" color="#ff6600">
+            <h1 style="font-family: Arial, sans-serif; font-size: 30px;">Hej igen!</h1>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding="0px 20px 20px 20px">
+        <mj-column>
+          <mj-text padding="0" font-family="Arial, sans-serif" font-size="16px" align="center" letter-spacing="0.25px">
+            <p>
+              Vi ser att du har testat Bokus Play tidigare, vad roligt att ha dig tillbaka!
+              Hos oss hittar du ljudböcker för livets alla bokstunder, och alltid de senaste nyheterna.
+            </p>
+            <p>
+              Använd koden nedan och få tillgång till Bokus Play Premium i 30 dagar för endast 1 krona. Hitta dina nya favoriter bland över 50 000 ljudböcker och e-böcker. Lyssna och läs hur mycket du vill - nästa upplevelse väntar.
+            </p>
+          </mj-text>
+          <mj-button background-color="#ffffff" color="#000000" border="2px dashed #000000" font-size="20px" font-weight="700" width="194px" href="https://www.bokus.com/play/signup/?ref=apponboard">PBA22RC</mj-button>
+          <mj-button background-color="#ff6600" font-size="20px" font-weight="700" width="194px" href="https://www.bokus.com/play/signup/?ref=apponboard">Börja lyssna</mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding="0px 0px 0px 0px">
+        <mj-column width="26%">
+          <mj-divider padding="10px 0" border-width="1px" />
+        </mj-column>
+        <mj-column width="48%">
+          <mj-text align="center" padding="0">
+            <h1>Varför Bokus Play?</h1>
+          </mj-text>
+        </mj-column>
+        <mj-column width="26%">
+          <mj-divider padding="10px 0" border-width="1px" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding="0">
+        <mj-column>
+          <mj-image padding="0" src="http://cdn.mcauto-images-production.sendgrid.net/6ad87c9631042604/37bc22e5-8744-4775-8e45-88c10ff9e240/1200x703.png" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding="00px 20px 0px 20px">
+        <mj-column>
+          <mj-text padding="0" font-family="Arial, sans-serif" font-size="11px" font-style="italic" color="#888888" align="center">
+            <p>
+              Du har fått det här mejlet eftersom du har angett din mejladress i Bokus Play-appen för att aktivera abonnemang i Bokus Play.
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-include path="./footer.mjml" />
+
+    </mj-body>
+  </mjml>

@@ -1,0 +1,35 @@
+  <mjml>
+    <mj-body background-color="#eeeeee">
+
+      <mj-include path="./header-logo.mjml" />
+      <mj-include path="./header-tjej3.mjml" />
+
+      <mj-section background-color="#ffffff" padding="20px 20px 0px 20px">
+        <mj-column>
+          <mj-text padding="0px" align="center" color="#ff6600">
+            <h1 style="font-family: Arial, sans-serif; font-size: 30px;">Hoppas att vi hörs snart igen!</h1>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding="0px 20px 20px 20px">
+        <mj-column>
+          <mj-text padding="0" font-family="Arial, sans-serif" font-size="16px" line-height="20px" align="center">
+            <p>
+              Tack för att du har använt Bokus Play. Ditt abonnemang är nu avslutat, men du kan fortsätta att lyssna som vanligt till och med {{ formatDate expires "YYYY-MM-DD" }}.
+            </p>
+            <p>
+              Vad tycker du om oss?
+            </p>
+            <p>
+              Vi vill gärna veta hur du har upplevt Bokus Play. Svara på vår korta enkät så att vi kan göra tjänsten ännu bättre.
+            </p>
+          </mj-text>
+          <mj-button background-color="#ff6600" font-size="20px" font-weight="700" width="194px">Tyck till!</mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-include path="./footer.mjml" />
+
+    </mj-body>
+  </mjml>
