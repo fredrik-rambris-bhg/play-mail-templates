@@ -1,56 +1,54 @@
-      <mj-section padding="0" background-color="#ffffff">
-        <mj-column>
-          <mj-image padding="0" width="600px" src="http://cdn.mcauto-images-production.sendgrid.net/6ad87c9631042604/2bf1f4df-5050-4445-8a1e-9495ce836a88/1200x114.png" />
-        </mj-column>
-      </mj-section>
+<mj-section padding="0" background-color="#ffffff">
+    <mj-column>
+        <mj-image padding="0" width="600px" href="https://www.bokus.com/play" src="http://cdn.mcauto-images-production.sendgrid.net/6ad87c9631042604/2bf1f4df-5050-4445-8a1e-9495ce836a88/1200x114.png" />
+    </mj-column>
+</mj-section>
 
-      <mj-section background-color="#ff6600" padding="0px">
-        <mj-column>
-          <mj-image padding="10px 0" width="154px" src="http://cdn.mcauto-images-production.sendgrid.net/6ad87c9631042604/c95c6b9d-1449-46ee-9491-958e330089c1/276x104.png" />
-        </mj-column>
-      </mj-section>
+<mj-section background-color="#ff6600" padding="0px">
+    <mj-column>
+        <mj-image padding="10px 0" width="154px" src="http://cdn.mcauto-images-production.sendgrid.net/6ad87c9631042604/c95c6b9d-1449-46ee-9491-958e330089c1/276x104.png" />
+    </mj-column>
+</mj-section>
 
-      <mj-section background-color="#ff6600" padding="0px 0px">
-        <mj-column>
-          <mj-text padding="0" align="center" color="#ffffff">
-            <p style="font-family: Arial, sans-serif;font-size: 14px;line-height: 22px;font-weight: 400;color: #ffffff;mso-line-height: exactly"><a href="mailto:kundservice@bokus.com" style="font-family: Arial, sans-serif;font-size: 14px;line-height: 22px;font-weight: 400;color: #ffffff;text-decoration: none;-webkit-font-smoothing: antialiased;font-smoothing: antialiased" rel="nofollow">kundservice@bokus.com</a>&nbsp;|&nbsp;010-741 98 00</p>
-          </mj-text>
-          <mj-divider padding="0" border-width="1px" border-color="#ffffff" />
-        </mj-column>
-      </mj-section>
+<mj-section background-color="#ff6600" padding="0px 0px">
+    <mj-column>
+        <mj-text font-family="Arial, sans-serif" font-size="14px" line-height="22px" padding="0" align="center" color="#ffffff">
+            <p><a href="mailto:kundservice@bokus.com" style="color: #ffffff;text-decoration: none" rel="nofollow">kundservice@bokus.com</a>&nbsp;|&nbsp;<a href="tel:0107419800" style="color: #ffffff;text-decoration: none" rel="nofollow">010-741 98 00</a></p>
+        </mj-text>
+        <mj-divider padding="0" border-width="1px" border-color="#ffffff" />
+    </mj-column>
+</mj-section>
 
 
-      <mj-section background-color="#ff6600" padding="0px 0px">
-        <mj-column width="40%" padding="5px 0px">
-          <mj-social color="#ffffff" font-size="15px" icon-size="24px" padding="0" mode="horizontal" align="right">
+<mj-section background-color="#ff6600" padding="0px 0px">
+    <mj-column width="35%" padding="5px 0px">
+        <mj-social color="#ffffff" font-size="15px" icon-size="24px" padding="0" mode="horizontal" align="center">
             <mj-social-element text-padding="0px 20px 0px 0px" src="http://cdn.mcauto-images-production.sendgrid.net/6ad87c9631042604/101904ac-6a20-4ad8-b687-61b8eb67e81d/56x48.png" href="https://www.bokus.com/cgi-bin/display_user_info.cgi">
-              Mina sidor
+                Mina sidor
             </mj-social-element>
 
-            <mj-social-element text-padding="0px 20px 0px 0px" src="http://cdn.mcauto-images-production.sendgrid.net/6ad87c9631042604/a9e558e5-db91-428e-a179-8390767e7cd9/56x48.png" href="https://help.bokus.com/support/home">
-              FAQ
+            <mj-social-element src="http://cdn.mcauto-images-production.sendgrid.net/6ad87c9631042604/a9e558e5-db91-428e-a179-8390767e7cd9/56x48.png" href="https://help.bokus.com/support/home">
+                FAQ
             </mj-social-element>
 
-          </mj-social>
-        </mj-column>
-        <mj-column width="10%">
-          <mj-social color="#ffffff" font-size="15px" padding="5px 0" icon-size="24px" mode="horizontal">
-            <mj-social-element padding="0px 0px 0px 0px" src="http://cdn.mcauto-images-production.sendgrid.net/6ad87c9631042604/63b0c523-2737-4619-aa21-fe3d9d70801c/56x48.png" href="https://www.facebook.com/bokuscom">
-            </mj-social-element>
-            <mj-social-element padding="4px 0px" src="http://cdn.mcauto-images-production.sendgrid.net/6ad87c9631042604/2e90afe4-4942-4a87-8a13-83b0b42bc504/56x48.png" href="https://www.instagram.com/bokus_com/">
-            </mj-social-element>
-          </mj-social>
-        </mj-column>
-        <mj-column width="20%" padding="0">
-          <mj-text color="#ffffff" padding="15px 0">Följ oss</mj-text>
-        </mj-column>
-      </mj-section>
+        </mj-social>
+    </mj-column>
+    <mj-column width="22%">
+        <mj-social color="#ffffff" font-size="15px" padding="5px 0" icon-size="24px" mode="horizontal">
+            <mj-social-element padding="0px 0px 0px 0px" src="http://cdn.mcauto-images-production.sendgrid.net/6ad87c9631042604/63b0c523-2737-4619-aa21-fe3d9d70801c/56x48.png" href="https://www.facebook.com/bokuscom" />
+            <mj-social-element padding="4px 0px" src="http://cdn.mcauto-images-production.sendgrid.net/6ad87c9631042604/2e90afe4-4942-4a87-8a13-83b0b42bc504/56x48.png" href="https://www.instagram.com/bokus_com/" />
+            <mj-social-element padding="4px 0px" icon-size="0" text-padding="0 8px">Följ oss</mj-social-element>
+        </mj-social>
 
-      <mj-section background-color="#ff6600" padding="0px 0px">
-        <mj-column>
-          <mj-divider padding="0" border-width="1px" border-color="#ffffff" />
-          <mj-text padding="0" color="#ffffff" font-family="Arial, sans-serif" font-size="11px" line-height="13px" align="center">
+    </mj-column>
+
+</mj-section>
+
+<mj-section background-color="#ff6600" padding="0px 0px">
+    <mj-column>
+        <mj-divider padding="0" border-width="1px" border-color="#ffffff" />
+        <mj-text padding="0" color="#ffffff" font-family="Arial, sans-serif" font-size="11px" line-height="13px" align="center">
             <p>Bokus reserverar sig för eventuella prisförändringar, felskrivningar samt utsålda varor som visas i utskicket.</p>
-          </mj-text>
-        </mj-column>
-      </mj-section>
+        </mj-text>
+    </mj-column>
+</mj-section>

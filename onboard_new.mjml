@@ -2,7 +2,7 @@
     <mj-body background-color="#eeeeee">
 
       <mj-include path="./header-logo-white.mjml" />
-      <mj-include path="./header-tjej3.mjml" />
+      <mj-include path="./header-tjej2.mjml" />
 
 
       <mj-section background-color="#ffffff" padding="20px 20px 0px 20px">
